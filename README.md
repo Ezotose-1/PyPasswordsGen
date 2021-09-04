@@ -1,7 +1,7 @@
 # PyPasswordsGen
 
 
-This script is a simple password generator. Thank's to this you can generate a password strong wish letter (upper and lowercase), [url=https://owasp.org/www-community/password-special-characters]specials symbols[/url], and numbers.
+This script is a simple password generator. Thank's to this you can generate a password strong wish letter (upper and lowercase), [specials symbols](https://owasp.org/www-community/password-special-characters), and numbers.
 
 ### Installation
 * Download the file thank's to the github page. Or clone the project with the git link :
