@@ -22,6 +22,13 @@ How many characters (at least 4) ?
 ```
 Just enter the password's lenght, at least 4 (upper/lowercase letter, symbol, number).
 
+It will generate a password using these datas lists :
+```python
+letters = "azertyauiopqsdfghjklmwxcvbn"
+numbers = "01234056789"
+symbols = "&\"\(&-_@\\)~#\{[|@]\}/*$%:;+"
+```
+
 
 ### Libraries/Packages
 For the use of this content, there is no library needed. All the lib used are the original from Python : 
